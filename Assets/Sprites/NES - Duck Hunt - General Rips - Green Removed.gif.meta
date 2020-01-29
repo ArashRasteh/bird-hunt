@@ -1,0 +1,1831 @@
+fileFormatVersion: 2
+guid: a74fdc71d655ffc4ba39a9def41e704a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NES - Duck Hunt - General Rips - Green Removed_0
+    21300002: NES - Duck Hunt - General Rips - Green Removed_1
+    21300004: NES - Duck Hunt - General Rips - Green Removed_2
+    21300006: NES - Duck Hunt - General Rips - Green Removed_3
+    21300008: NES - Duck Hunt - General Rips - Green Removed_4
+    21300010: NES - Duck Hunt - General Rips - Green Removed_5
+    21300012: NES - Duck Hunt - General Rips - Green Removed_6
+    21300014: NES - Duck Hunt - General Rips - Green Removed_7
+    21300016: NES - Duck Hunt - General Rips - Green Removed_8
+    21300018: NES - Duck Hunt - General Rips - Green Removed_9
+    21300020: NES - Duck Hunt - General Rips - Green Removed_10
+    21300022: NES - Duck Hunt - General Rips - Green Removed_11
+    21300024: NES - Duck Hunt - General Rips - Green Removed_12
+    21300026: NES - Duck Hunt - General Rips - Green Removed_13
+    21300028: NES - Duck Hunt - General Rips - Green Removed_14
+    21300030: NES - Duck Hunt - General Rips - Green Removed_15
+    21300032: NES - Duck Hunt - General Rips - Green Removed_16
+    21300034: NES - Duck Hunt - General Rips - Green Removed_17
+    21300036: NES - Duck Hunt - General Rips - Green Removed_18
+    21300038: NES - Duck Hunt - General Rips - Green Removed_19
+    21300040: NES - Duck Hunt - General Rips - Green Removed_20
+    21300042: NES - Duck Hunt - General Rips - Green Removed_21
+    21300044: NES - Duck Hunt - General Rips - Green Removed_22
+    21300046: NES - Duck Hunt - General Rips - Green Removed_23
+    21300048: NES - Duck Hunt - General Rips - Green Removed_24
+    21300050: NES - Duck Hunt - General Rips - Green Removed_25
+    21300052: NES - Duck Hunt - General Rips - Green Removed_26
+    21300054: NES - Duck Hunt - General Rips - Green Removed_27
+    21300056: NES - Duck Hunt - General Rips - Green Removed_28
+    21300058: NES - Duck Hunt - General Rips - Green Removed_29
+    21300060: NES - Duck Hunt - General Rips - Green Removed_30
+    21300062: NES - Duck Hunt - General Rips - Green Removed_31
+    21300064: NES - Duck Hunt - General Rips - Green Removed_32
+    21300066: NES - Duck Hunt - General Rips - Green Removed_33
+    21300068: NES - Duck Hunt - General Rips - Green Removed_34
+    21300070: NES - Duck Hunt - General Rips - Green Removed_35
+    21300072: NES - Duck Hunt - General Rips - Green Removed_36
+    21300074: NES - Duck Hunt - General Rips - Green Removed_37
+    21300076: NES - Duck Hunt - General Rips - Green Removed_38
+    21300078: NES - Duck Hunt - General Rips - Green Removed_39
+    21300080: NES - Duck Hunt - General Rips - Green Removed_40
+    21300082: NES - Duck Hunt - General Rips - Green Removed_41
+    21300084: NES - Duck Hunt - General Rips - Green Removed_42
+    21300086: NES - Duck Hunt - General Rips - Green Removed_43
+    21300088: NES - Duck Hunt - General Rips - Green Removed_44
+    21300090: NES - Duck Hunt - General Rips - Green Removed_45
+    21300092: NES - Duck Hunt - General Rips - Green Removed_46
+    21300094: NES - Duck Hunt - General Rips - Green Removed_47
+    21300096: NES - Duck Hunt - General Rips - Green Removed_48
+    21300098: NES - Duck Hunt - General Rips - Green Removed_49
+    21300100: NES - Duck Hunt - General Rips - Green Removed_50
+    21300102: NES - Duck Hunt - General Rips - Green Removed_51
+    21300104: NES - Duck Hunt - General Rips - Green Removed_52
+    21300106: NES - Duck Hunt - General Rips - Green Removed_53
+    21300108: NES - Duck Hunt - General Rips - Green Removed_54
+    21300110: NES - Duck Hunt - General Rips - Green Removed_55
+    21300112: NES - Duck Hunt - General Rips - Green Removed_56
+    21300114: NES - Duck Hunt - General Rips - Green Removed_57
+    21300116: NES - Duck Hunt - General Rips - Green Removed_58
+    21300118: NES - Duck Hunt - General Rips - Green Removed_59
+    21300120: NES - Duck Hunt - General Rips - Green Removed_60
+    21300122: NES - Duck Hunt - General Rips - Green Removed_61
+    21300124: NES - Duck Hunt - General Rips - Green Removed_62
+    21300126: NES - Duck Hunt - General Rips - Green Removed_63
+    21300128: NES - Duck Hunt - General Rips - Green Removed_64
+    21300130: NES - Duck Hunt - General Rips - Green Removed_65
+    21300132: NES - Duck Hunt - General Rips - Green Removed_66
+    21300134: NES - Duck Hunt - General Rips - Green Removed_67
+    21300136: NES - Duck Hunt - General Rips - Green Removed_68
+    21300138: NES - Duck Hunt - General Rips - Green Removed_69
+    21300140: NES - Duck Hunt - General Rips - Green Removed_70
+    21300142: NES - Duck Hunt - General Rips - Green Removed_71
+    21300144: NES - Duck Hunt - General Rips - Green Removed_72
+    21300146: NES - Duck Hunt - General Rips - Green Removed_73
+    21300148: NES - Duck Hunt - General Rips - Green Removed_74
+    21300150: NES - Duck Hunt - General Rips - Green Removed_75
+    21300152: NES - Duck Hunt - General Rips - Green Removed_76
+    21300154: NES - Duck Hunt - General Rips - Green Removed_77
+    21300156: NES - Duck Hunt - General Rips - Green Removed_78
+    21300158: NES - Duck Hunt - General Rips - Green Removed_79
+    21300160: NES - Duck Hunt - General Rips - Green Removed_80
+    21300162: NES - Duck Hunt - General Rips - Green Removed_81
+    21300164: NES - Duck Hunt - General Rips - Green Removed_82
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47302ca8d95da884aa2d4e585eb5cb7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 237
+        width: 53
+        height: 40
+      alignment: 9
+      pivot: {x: 0.55527365, y: 0.31127205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61a69d01f69d074bb1f0faadc90a7b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_2
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 237
+        width: 55
+        height: 40
+      alignment: 9
+      pivot: {x: 0.53687465, y: 0.31408882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9560bbcaa3d790e4a892fa93fb717154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_3
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 236
+        width: 51
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29823622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf852539fa7c1e45b4ab30925def885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_4
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 236
+        width: 53
+        height: 40
+      alignment: 9
+      pivot: {x: 0.51552886, y: 0.32510376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1c4346be6a34b4f9dee25fe8cf5af9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_5
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 236
+        width: 52
+        height: 43
+      alignment: 9
+      pivot: {x: 0.34199002, y: 0.29583457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23cf0452d558d6409896f78f7dafa57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_6
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 174
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437437e34662bc5488bfcd531b977b07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_7
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 180
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76fb48f619309e45a25fc85a7c19341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_8
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 180
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cfb75deee846d4096afeed19d6492e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_9
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 178
+        width: 43
+        height: 39
+      alignment: 9
+      pivot: {x: 0.34520847, y: 0.4206195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec99ac437e754f84a8b4b869cdea3b97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_10
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 178
+        width: 56
+        height: 39
+      alignment: 9
+      pivot: {x: 0.49723598, y: 0.4245887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae31f5e3ef69e194a80454db8f030c77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_11
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 180
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39680558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77aefa6fc09fb14dacf51ed7734385d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_12
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 180
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39283636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149e3086b11e30043b498d8cc5928e3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_13
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 136
+        width: 27
+        height: 31
+      alignment: 9
+      pivot: {x: 0.52965176, y: 0.62267035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfb38df2d892654d90636367487deb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_14
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 136
+        width: 32
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5750551, y: 0.64493376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e5e54e51102ea43aebe3864160c560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_15
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 134
+        width: 25
+        height: 31
+      alignment: 9
+      pivot: {x: 0.6521118, y: 0.6872337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6818095460a5a8c40b42538404d48403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_16
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 132
+        width: 34
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5894506, y: 0.41502854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5e40b97bf79934eb40b5e17396287a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_17
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 131
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5890386, y: 0.6006592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99172bbedb0dadb4db5a32f8e6162ad8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_18
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 129
+        width: 34
+        height: 24
+      alignment: 9
+      pivot: {x: 0.58854675, y: 0.666413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a991485d9d0724d91e23eca60e2a29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_19
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 127
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1e4c869d7cbec40a368208f4ee402a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_20
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 128
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5e19a1b1c1ca247a72a98bedb2c8a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_21
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 128
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614a5d33b90302146ad3e3ba6a3248f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_22
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 93
+        width: 27
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5348262, y: 0.62891287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0feafc4a5aa2b42a22bf591a3f6308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_23
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 93
+        width: 32
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5789261, y: 0.671071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4e66cbe3769454f95010fe2c4d6441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_24
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 91
+        width: 25
+        height: 31
+      alignment: 9
+      pivot: {x: 0.65985227, y: 0.68578607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028c7294db9aa6c42b627abeefaec1e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_25
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 92
+        width: 34
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5894533, y: 0.41689458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67242d3aabe64ae469147b564386e1b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_26
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 91
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.59040564, y: 0.60703504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b023ecf29ac3ff840a0f3606b5243c64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_27
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 89
+        width: 34
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5924826, y: 0.6705675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc074c88d9215a448c3fcdb22e7baee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_28
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 88
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d4dad473eee5b4a8e1914ef842aa5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_29
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 87
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c82f6519d0e1484483bed6382f5f8d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_30
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 87
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13203b056ad59e468a2f76a4ed9e431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_31
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 50
+        width: 27
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5391789, y: 0.62512136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d225e6e87ce8f1943b4aadfa629bebf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_32
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 50
+        width: 32
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5732889, y: 0.671071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02340b8573fa8f64680ac7579b4f07ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_33
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 48
+        width: 25
+        height: 31
+      alignment: 9
+      pivot: {x: 0.65985227, y: 0.6933692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d05a16b3a34a2449a53eed3833b523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_34
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 49
+        width: 34
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5884471, y: 0.4122567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8163e667ca4a72d4b878bb29bd535f20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_35
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 48
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5884471, y: 0.5983122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda4d3560b681a6488b94f05160c97ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_36
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 46
+        width: 34
+        height: 24
+      alignment: 9
+      pivot: {x: 0.58504534, y: 0.6638538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d702888a834d6f944ad9c628807b0631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_37
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 45
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348c8a7dc8354334fb4cb46951478eaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_38
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 45
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6429e9e375e16f4449a3c62c3d6f8ee1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_39
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 45
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be135189728a43b4996ae3b720ac7a91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_40
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 27
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b07d80f864138409f40792ca494b83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_41
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 21
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce84018868cb7e4ba6126ee8a6fc0f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_42
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 21
+        width: 113
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2541f91dc15855e4ba74a1ab2006df11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_43
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 21
+        width: 49
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818b92a0c9516214e9970f10fe8041d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_44
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 9
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d3c3e1ba7fa8c4fb0eb3b4d6c1e5fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_45
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 23
+        width: 73
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07162bf8d6bb17d459b522655a522f5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_46
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2004171675903034391be5129d018416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_47
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 33
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d26e88b7b6fa454c9020facfbd2cc59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_48
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cee45432fbe1d4ba6a4ad6ef809f13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_49
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf73f00700bc7994caac19a6614556ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_50
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80683a82e8ea8484496d7d399e2bb64c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_51
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283fb5ede2f310441b3efbd8aab6974c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 29
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783ed4a9d4e1a594dab3ea9ffd347e0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_53
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 29
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da317736212ea74985eb48dce469c17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_54
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 28
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d723536e8ad342249b95c6196360acf3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_55
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 2
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3e610bba12c124ea35391f4dcbf527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_56
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 25
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418ccc8b65f58354cb7b4ad01b265992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_57
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 25
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42684345d5e21aa4ba5fced488224b2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_58
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 25
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057b8f412a18ded4e98ff9b185536c1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_59
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 25
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6b8610e2a3008428ed756297fc1c70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_60
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 16
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07994be9fca64af41bee5d6df01afd99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_61
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 16
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf30af4e282837142972500f193ff4be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_62
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 18
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62da664a04d75b04bac1b08c839c2219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_63
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b4f6000916d34449639c563f30e144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_64
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2
+        width: 113
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75ba5a13ae27f644beb731d8ff57a22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_65
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77463c8b54d9afe44963552598bdc735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_66
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4087e3a777437d149b188178bff08262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_67
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40279f6a2ff64042ada3e2386f3b9b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_68
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1965ec6134385445a7bb2b89004ed1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_69
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bae97e23f702d42ae5d8c4a89d3b63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_70
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c513989629e107e40916f9d1563dea75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_71
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 12
+        width: 29
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4967eec48b2c4499c58659b53f5d6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_72
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 12
+        width: 29
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234640d915b4f9946ac680c1459535cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_73
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4046aa172cc78040a5d49ad403c4326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_74
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3974d611d1ff4534caa7e0f576322e3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_75
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb17e7b9a14ae0419ce443c97df7784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_76
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde491ace04143b47beb4f3b75b5524d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_77
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 6
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43970607ff3bfe4449f9ea64324a5edb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_78
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 6
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8069ad4501c014342a27f1f1b7bbec83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_79
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 4
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a48518e1466f374bac1125c88477a0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_80
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 257
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e41e0f2127854a4ab6e425efd1a2341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_81
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 249
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4861e3a493f01418a6064eb38438a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Duck Hunt - General Rips - Green Removed_82
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 241
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c23b66c9160274585a2c48206eadea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
