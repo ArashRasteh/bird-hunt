@@ -13,7 +13,7 @@ public class PlayerShooting : MonoBehaviour {
 	public float zoomedIn = 20f;
 	public float muzzleFlashDuration = .1f;
 	public bool IsZoomed {
-		get {return isZoomed;}
+		get {return isZoomed;} 
 	}
 
 	private Camera mainCamera;
